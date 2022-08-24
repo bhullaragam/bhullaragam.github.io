@@ -356,6 +356,7 @@ img {
   padding: 1rem;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
+  border: none;
 }
 
 .button:hover{
@@ -365,7 +366,7 @@ img {
 .button__icon{
   font-size: 1.25rem;
   margin-left: var(--mb-0-5);
-  transition: 0.3s;
+  transition: 0.3s; 
 }
 
 .button--flex{
